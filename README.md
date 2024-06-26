@@ -1,4 +1,5 @@
 # Serv00 - 控制面板自动登录脚本
+根据 https://github.com/xiaofeivip/Serv00_Auto_Login 项目修改而来
 ## 使用方法
 
 1、创建复刻
